@@ -1,4 +1,5 @@
 # git_test
 My first GitHub repo!
-Hellow Odin!
-commit 
+Hello Odin!
+commit
+merge is true
